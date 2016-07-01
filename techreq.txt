@@ -1,7 +1,7 @@
 2011-11-08_12-37-05
 Technical requirements for online and blended courses:
 
-1. Students must have regular, reliable access to a broad-band (high-speed) internet connection (e.g., DSL or cable; experience shows that modem dial-up will not prove sufficient). Courses will have frequent, perhaps even daily, deadlines that must be accomplished with online activity.
+1. Students must have regular, reliable access to a broad-band (high-speed) internet connection (e.g., DSL or cable; experience shows that modem dial-up will not prove sufficient). Courses will have regular deadlines that must be accomplished with online activity.
 
 2. Students must have access to a reasonably up-to-date computer and operating system, sufficient to run an up-to-date web browser. Computers must play sound. The G-ETS library has a limited number of laptop computers available for check-out. The Northwestern University Library has a computer center as well.
 
